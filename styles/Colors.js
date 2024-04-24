@@ -1,0 +1,21 @@
+export default {
+    placeHolderTextColor: '#00C6B0',
+    inputFieldColor: '#FBFBFB',
+    textColor:'#F4F4F4',
+    linearGradient1:"#DDDDDD",
+    linearGradient2:"#DDDDDD",
+    linearGradient3:'#D6D6D6',
+    linearGradient4: '#ACACAC',
+    buttonGradient1: '#00E7CE',
+    buttonGradient2: '#00AA97',
+    error1:'#FBFBFB',
+    error2: '#CB3A31',
+    headingTextColor: '#0E4B67',
+    primaryButtonColor1: '#1877A3',
+    primaryButtonColor2: '#0E3067',
+    disablebuttonColor: '#888888',
+    inputTextColor: '#1D1B20',
+    mainBackgroundColor: '#E4E4E4',
+    defaultWhiteBackgroundColor: '#F4F4F4',
+    splashScreenTextcolor: '#1D1B20'
+}

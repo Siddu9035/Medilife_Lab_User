@@ -12,8 +12,12 @@
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		72950B0598EB48FF9F7F5702 /* Roboto-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7D749EEEF29349D687AC5BCC /* Roboto-Bold.ttf */; };
 		7699B88040F8A987B510C191 /* libPods-Lab-LabTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-Lab-LabTests.a */; };
+		781C5FAAC96A43C0AED4962E /* Roboto-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 51708F19CF3746259C52F663 /* Roboto-Light.ttf */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		9E029356442746038AA842EF /* Roboto-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 50100CAEF31D4A92A1875696 /* Roboto-Regular.ttf */; };
+		C41BDAAC5A424EC1BDB764F0 /* Roboto-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F8DA0DF1CE404A58AB0FA36F /* Roboto-Medium.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,12 +42,16 @@
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = Lab/main.m; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-Lab-LabTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Lab-LabTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B4392A12AC88292D35C810B /* Pods-Lab.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Lab.debug.xcconfig"; path = "Target Support Files/Pods-Lab/Pods-Lab.debug.xcconfig"; sourceTree = "<group>"; };
+		50100CAEF31D4A92A1875696 /* Roboto-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Regular.ttf"; path = "../assets/fonts/Roboto-Regular.ttf"; sourceTree = "<group>"; };
+		51708F19CF3746259C52F663 /* Roboto-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Light.ttf"; path = "../assets/fonts/Roboto-Light.ttf"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-Lab.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Lab.release.xcconfig"; path = "Target Support Files/Pods-Lab/Pods-Lab.release.xcconfig"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-Lab-LabTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Lab-LabTests.debug.xcconfig"; path = "Target Support Files/Pods-Lab-LabTests/Pods-Lab-LabTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-Lab.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Lab.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7D749EEEF29349D687AC5BCC /* Roboto-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Bold.ttf"; path = "../assets/fonts/Roboto-Bold.ttf"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = Lab/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-Lab-LabTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Lab-LabTests.release.xcconfig"; path = "Target Support Files/Pods-Lab-LabTests/Pods-Lab-LabTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		F8DA0DF1CE404A58AB0FA36F /* Roboto-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Medium.ttf"; path = "../assets/fonts/Roboto-Medium.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +130,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				BAB54C521EDA455F8CB22A98 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -135,6 +144,18 @@
 				00E356EE1AD99517003FC87E /* LabTests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		BAB54C521EDA455F8CB22A98 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				7D749EEEF29349D687AC5BCC /* Roboto-Bold.ttf */,
+				51708F19CF3746259C52F663 /* Roboto-Light.ttf */,
+				F8DA0DF1CE404A58AB0FA36F /* Roboto-Medium.ttf */,
+				50100CAEF31D4A92A1875696 /* Roboto-Regular.ttf */,
+			);
+			name = Resources;
+			path = "";
 			sourceTree = "<group>";
 		};
 		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
@@ -243,6 +264,10 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				72950B0598EB48FF9F7F5702 /* Roboto-Bold.ttf in Resources */,
+				781C5FAAC96A43C0AED4962E /* Roboto-Light.ttf in Resources */,
+				C41BDAAC5A424EC1BDB764F0 /* Roboto-Medium.ttf in Resources */,
+				9E029356442746038AA842EF /* Roboto-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
